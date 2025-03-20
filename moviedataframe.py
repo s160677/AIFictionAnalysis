@@ -17,7 +17,9 @@ summaries = df[['movie_name', 'imdb_id', 'summary']]
 summaries[['movie_name', 'year']] = summaries['movie_name'].str.extract(r'(.+?)_(\d{4})')
 
 # my tmdb key in order to call API to get genre of each movie 
-tmdb_api_key = "19d23619e2050fe44860c8f14618b6b2"
+tmdb_api_key = os.getenv("TMDB_API_KEY")
+if not tmdb_api_key:
+    raise ValueError("TMDB_API_KEY environment variable not set")
 
 def get_movie_genre(movie_title):
     """Fetches the genre of a movie from TMDb API."""
