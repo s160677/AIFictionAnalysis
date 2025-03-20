@@ -1,0 +1,21 @@
+Title,Question,openai:gpt-4o,anthropic:claude-3-5-sonnet-20240620
+Dracula,{'question': 'Does the text follow a linear narrative structure?'},"No  
+6  
+3","No
+
+Confidence: 5
+
+Objectivity/Subjectivity: 3"
+Dracula,{'question': 'Is the theme of revenge explored in this text?'},"No  
+6  
+3","Yes
+4
+5"
+Snowpiercer,{'question': 'Does the text follow a linear narrative structure?'},"Yes, 5, 2","Yes
+6
+2"
+Snowpiercer,{'question': 'Is the theme of revenge explored in this text?'},"No  
+6  
+3","Yes
+5
+5"

@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+config.json
+secrets/
+
+# Ignore virtual environments (for Python projects)
+venv/
+__pycache__/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore system files
+.DS_Store
