@@ -1,0 +1,178 @@
+[
+        {
+            "binary": "Does the text follow a linear narrative structure?",
+            "likert": "The text follows a linear narrative structure."
+        },
+        {
+            "binary": "Does the text follow a non-linear narrative structure?",
+            "likert": "The text follows a non-linear narrative structure."
+        },
+        {
+            "binary": "Does the text follow a circular narrative structure, the story ends where it began?",
+            "likert": "The text follows a circular narrative structure, ending where it began."
+        },
+        {
+            "binary": "Does the text have a multiple storyline narrative structure?",
+            "likert": "The text has a multiple storyline narrative structure."
+        },
+        {
+            "binary": "Does the text have subplot threads interwoven into the main narrative?",
+            "likert": "The text contains subplot threads interwoven into the main narrative."
+        },
+        {
+            "binary": "Is the text organized into a standard three act structure (beginning, middle, end)?",
+            "likert": "The text follows a standard three-act structure (beginning, middle, end)."
+        },
+        {
+            "binary": "Is the theme of good vs evil explored in this text?",
+            "likert": "The theme of good vs evil is explored in this text."
+        },
+        {
+            "binary": "Is the theme of love explored in this text?",
+            "likert": "The theme of love is explored in this text."
+        },
+        {
+            "binary": "Is the theme of family explored in this text?",
+            "likert": "The theme of family is explored in this text."
+        },
+        {
+            "binary": "Is the theme of loneliness explored in this text?",
+            "likert": "The theme of loneliness is explored in this text."
+        },
+        {
+            "binary": "Is the theme of revenge explored in this text?",
+            "likert": "The theme of revenge is explored in this text."
+        },
+        {
+            "binary": "Is the theme of identity and self exploration explored in this text?",
+            "likert": "The theme of identity and self-exploration is explored in this text."
+        },
+        {
+            "binary": "Is the theme of social and political issues explored in this text?",
+            "likert": "The theme of social and political issues is explored in this text."
+        },
+        {
+            "binary": "Is the theme of power and corruption explored in this text?",
+            "likert": "The theme of power and corruption is explored in this text."
+        },
+        {
+            "binary": "Is the theme of loss and grief explored in this text?",
+            "likert": "The theme of loss and grief is explored in this text."
+        },
+        {
+            "binary": "Is the theme of nature and environment explored in this text?",
+            "likert": "The theme of nature and the environment is explored in this text."
+        },
+        {
+            "binary": "Are there repeating thematic patterns or symbols in the text?",
+            "likert": "The text contains repeating thematic patterns or symbols."
+        },
+        {
+            "binary": "Is there one clear main character in the text?",
+            "likert": "There is one clear main character in the text."
+        },
+        {
+            "binary": "Are there multiple side characters that are important to the plot?",
+            "likert": "There are multiple side characters important to the plot."
+        },
+        {
+            "binary": "Is there a clear antagonist character in the text?",
+            "likert": "There is a clear antagonist character in the text."
+        },
+        {
+            "binary": "Is the protagonist's main goal/desire one that is moral?",
+            "likert": "The protagonist's main goal/desire is moral."
+        },
+        {
+            "binary": "Does the main character undergo character growth?",
+            "likert": "The main character undergoes character growth."
+        },
+        {
+            "binary": "Is the author's primary message of this text to entertain?",
+            "likert": "The author's primary message in this text is to entertain."
+        },
+        {
+            "binary": "Is the author's primary message of this text to inform?",
+            "likert": "The author's primary message in this text is to inform."
+        },
+        {
+            "binary": "Is the author's primary message of this text to persuade?",
+            "likert": "The author's primary message in this text is to persuade."
+        },
+        {
+            "binary": "Is the author's primary message of this text to critique?",
+            "likert": "The author's primary message in this text is to critique."
+        },
+        {
+            "binary": "Is the author primarily aiming to evoke positive emotions with this text?",
+            "likert": "The author primarily aims to evoke positive emotions with this text."
+        },
+        {
+            "binary": "Is the author primarily aiming to evoke negative emotions with this text?",
+            "likert": "The author primarily aims to evoke negative emotions with this text."
+        },
+        {
+            "binary": "Is the author primarily aiming to evoke thought-provoking emotions with this text?",
+            "likert": "The author primarily aims to evoke thought-provoking emotions with this text."
+        },
+        {
+            "binary": "Is the author primarily aiming to evoke contradictory emotions with this text?",
+            "likert": "The author primarily aims to evoke contradictory emotions with this text."
+        },
+        {
+            "binary": "Does the story in the text involve many different settings?",
+            "likert": "The story in the text involves many different settings."
+        },
+        {
+            "binary": "How integral does the setting seem to the story based on the text?",
+            "likert": "The setting is integral to the story."
+        },
+        {
+            "binary": "Does the story take place in modern society?",
+            "likert": "The story takes place in modern society."
+        },
+        {
+            "binary": "Does the story take place in a fantasy world?",
+            "likert": "The story takes place in a fantasy world."
+        },
+        {
+            "binary": "Does the story take place in a historical setting?",
+            "likert": "The story takes place in a historical setting."
+        },
+        {
+            "binary": "Is the plot of this text predictable?",
+            "likert": "The plot of this text is predictable."
+        },
+        {
+            "binary": "Does the text contain a major twist?",
+            "likert": "The text contains a major twist."
+        },
+        {
+            "binary": "Does the text contain a central conflict?",
+            "likert": "The text contains a central conflict."
+        },
+        {
+            "binary": "Is the plot of this text engaging?",
+            "likert": "The plot of this text is engaging."
+        },
+        {
+            "binary": "Does the plot of the text come to a satisfying resolution?",
+            "likert": "The plot of the text comes to a satisfying resolution."
+        },
+        {
+            "binary": "Does the plot end in a cliffhanger?",
+            "likert": "The plot ends in a cliffhanger."
+        },
+        {
+            "binary": "Does the text engage diverse demographic or cultural groups?",
+            "likert": "The text engages diverse demographic or cultural groups."
+        },
+        {
+            "binary": "After reading this text are you in a positive mood?",
+            "likert": "After reading this text, I am in a positive mood."
+        },
+        {
+            "binary": "After reading this text are you in a negative mood?",
+            "likert": "After reading this text, I am in a negative mood."
+        }
+    ]
