@@ -5,7 +5,7 @@ import csv
 import os
 import pandas as pd
 import requests
-os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
+# os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
 
 # Read the JSONL file into a pandas DataFrame
 df = pd.read_json('train.jsonl', lines=True)

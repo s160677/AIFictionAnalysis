@@ -1,0 +1,7 @@
+aisuite==0.1.10
+huggingface_hub==0.29.3
+pandas==2.2.3
+Requests==2.32.3
+numpy
+openai
+docstring_parser==0.16

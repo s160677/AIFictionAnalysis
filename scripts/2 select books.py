@@ -2,8 +2,9 @@ import pandas as pd
 import json
 from collections import defaultdict
 
-import os
-os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
+# hannes: avoid full paths
+# import os
+# os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
 
 # Load the Parquet files and combine them into one DataFrame
 df = pd.concat([

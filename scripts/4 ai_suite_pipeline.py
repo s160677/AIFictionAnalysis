@@ -21,7 +21,7 @@ df = pd.read_csv('movie_book_dataframe.csv')
 test_summaries = df[df['Title'].isin(['Snowpiercer', 'Dracula'])]
 
 # select models
-models = ["openai:gpt-4o", "anthropic:claude-3-5-sonnet-20240620"]
+models = ["openai:gpt-4o-mini"] #"anthropic:claude-3-5-sonnet-20240620"
 
 # initialize list to store the responses
 model_results = []

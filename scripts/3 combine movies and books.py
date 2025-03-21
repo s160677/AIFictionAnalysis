@@ -1,7 +1,7 @@
 import csv
 import os
 import pandas as pd
-os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
+# os.chdir('/Users/seanmcelhenny/Documents/UVA Studies/Masters/7. Thesis/Python files')
 
 # Define the input and output file paths
 books_file = 'selected_books.csv'
