@@ -72,6 +72,10 @@
             "likert": "There is one clear main character in the text."
         },
         {
+            "binary": "Is the main character a hero in this text?",
+            "likert": "The main character is the hero in this text."
+        },
+        {
             "binary": "Are there multiple side characters that are important to the plot?",
             "likert": "There are multiple side characters important to the plot."
         },
